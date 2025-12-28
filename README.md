@@ -3,9 +3,8 @@
 
 ### 👨‍💻 About Me  
 - 🔭 Currently working on **AI-Powered Applications & Scalable Backend Systems**  
-- 🌱 Exploring **AWS Cloud, Backend Development, and System Design**  
-- 💡 Passionate about **Problem-Solving, Open-Source, and Innovative Tech**  
-- ⚡ Fun Fact: I believe **"Consistency beats talent!"** 🚀  
+- 🌱 Gaining Day by Day Experience in **AWS Cloud, Backend Development, and System Design**  
+- 💡 Passionate about **Problem-Solving, Open-Source, Complex CodeBase and Innovative Tech**  
 
 ### 🔥 GitHub Stats  
 <p align="center">
@@ -13,23 +12,7 @@
 </p>
 
 ### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-
-### 🚀 Featured Projects  
-🔹 **[100 Python Programs](https://github.com/talhawkk/100-Python-programs-Basic-to-Advanced)** – A collection of Python programs from basic to advanced 🚀  
-🔹 **[Django Blog Project](https://github.com/talhawkk/Django-Blog)** – A feature-rich blogging platform built with Django  
-🔹 **[Amanu API](https://github.com/talhawkk/Amanu-API)** – An advanced **Flask-based API** with optimized search functionality  
-🔹 **[Typing Speed Test](https://github.com/talhawkk/Typing-Speed-Test)** – A GUI-based typing speed test application in Python  
-🔹 **[Rhombix Internship Tasks](https://github.com/talhawkk/Rhombix-Internship-Tasks)** – AI/ML-based projects & assignments completed during my internship at Rhombix Technologies  
-
----
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> </p> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> </p> <p align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> </p>
 
 ### 📫 Let's Connect!  
 <p align="center">
