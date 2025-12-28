@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Talha 👋</h1>  
-<h3 align="center">🚀 Python Developer | Django Backend Engineer | AI & Cloud Enthusiast</h3>  
+<h3 align="center">🚀 Software Engineer | Python, Django, FastAPI, JS, ReactJs, AWS | AI & Cloud Enthusiast</h3>  
 
 ### 👨‍💻 About Me  
 - 🔭 Currently working on **AI-Powered Applications & Scalable Backend Systems**  
@@ -8,7 +8,7 @@
 
 ### 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhawkk&theme=github_dark" alt="GitHub Stats Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhawkk&theme=github_dark&v=2" />
 </p>
 
 ### 🛠️ Tech Stack  
